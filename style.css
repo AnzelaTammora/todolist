@@ -95,7 +95,7 @@ html, body{
   margin-left: 20px;
 }
 
-@media screen and (min-width: 420px){
+@media screen and (min-width: 720px){
   .tasks_input{
     margin-left: 0px;
   }
@@ -112,7 +112,7 @@ html, body{
   width: 80%;
 }
 
-@media screen and (min-width: 420px){
+@media screen and (min-width: 720px){
   .tasks_text{
     width: 100%;
   }
