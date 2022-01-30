@@ -54,9 +54,6 @@ html, body{
   margin-left: 10px;
   margin: 0 auto;
   max-width: 600px;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
 }
 
 /*Izvēlne*/
