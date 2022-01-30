@@ -75,15 +75,8 @@ html, body{
    padding: 2px 30px 6px 15px;
    width: 190px;
    margin-right: 15px;
-   margin-left: 20px;
-   margin-bottom: 25px;
+   margin-bottom: 25px; 
  }
-
- @media screen and (min-width: 360px){
-  .tasks_options{
-    margin-left: 0px;
-  }
-}
  
  /*Atvērta izv.*/
 .tasks_options>option{
@@ -110,13 +103,7 @@ html, body{
   border-style: none; 
   border-bottom: 1px solid #999999;
   padding: 6px 34px 6px 10px;
-  width: 80%;
-}
-
-@media screen and (min-width: 720px){
-  .tasks_text{
-    width: 100%;
-  }
+  width: 100%;
 }
 
 /*Pievienošanas poga*/
