@@ -254,6 +254,10 @@ margin-right: auto;
   display: none;
 }
 
+[data-tasks-state="active"]{
+  background-color: #e7eee3;
+}
+
 [data-tasks-state="completed"]{
   text-decoration: line-through;
   background-color: #eef7e9;
