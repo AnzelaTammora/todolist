@@ -18,7 +18,7 @@ const tasks = {
         this.save();/*saglabā visus uzdevumus (tasks_items saturu) iekš localStorage */
       }
     },
-    /* Nospiežot add(), tas pievieno uzdevumu sarakstam .todo__items.*/
+    /* Nospiežot add(), tas pievieno uzdevumu sarakstam .tasks__items.*/
     add() {
       const elemText = document.querySelector('.tasks_text');
       if (elemText.disabled || !elemText.value.length) {
